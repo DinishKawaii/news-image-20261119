@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261119/DinishKawaii/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 [![reward](https://make.fun/badge/news-image-20261119/DinishKawaii/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
-One image that sums up the world's news of Thursday 19 November 2026 — 40 stories on one page, from the Shenzhen summit and the Crimean Bridge to the Rohingya ruling, COP31, and a record IPO on Nasdaq. The program in this repository draws nothing at run time — the image is stored inside `main.ts` and written out to the output folder as `entry.png`.
+One image that sums up the world's news of Thursday 19 November 2026 — 20 stories on one page: four lead stories plus more from the day, from the Shenzhen summit and the Crimean Bridge to the Rohingya ruling, COP31, and a record IPO on Nasdaq. The program in this repository draws nothing at run time — the image is stored inside `main.ts` and written out to the output folder as `entry.png`.
 
 ## Run it
 
